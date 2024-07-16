@@ -1,0 +1,20 @@
+Name of the vaccination center: Nozha Medical Centre
+Vaccination Center id: 50
+Vaccination Center address: Cairo
+List of vaccines available at the center: [AstraZeneca,Vaxzevria,Sinovac]
+____________________________________________________________________________________________________
+Name of the vaccination center: Katamiya Medical Centre
+Vaccination Center id: 51
+Vaccination Center address: Cairo
+List of vaccines available at the center: [AstraZeneca,Vaxzevria,Sinovac]
+____________________________________________________________________________________________________
+Name of the vaccination center: Mit Okba Health Centre
+Vaccination Center id: 52
+Vaccination Center address: Giza
+List of vaccines available at the center: [Sinopharm,Vaxzevria,Sinovac,Pfizer-BioNTech]
+____________________________________________________________________________________________________
+Name of the vaccination center: Somouha Centre for Women’s Health
+Vaccination Center id: 53
+Vaccination Center address: Alexandria
+List of vaccines available at the center: [Sinopharm,Vaxzevria,Pfizer-BioNTech]
+____________________________________________________________________________________________________
